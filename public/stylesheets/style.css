@@ -8,6 +8,11 @@ a {
   padding: 0px;
 }
 
+h1, h2 {
+  color: #f39ead;
+  text-shadow: 4px 4px rgba(82, 57, 62, 0.54);
+}
+
 /* Cover */
 
 #cover {
@@ -163,7 +168,7 @@ a {
   line-height: 150px;
   border-radius: 12px;
   vertical-align: middle;
-  background-color: #c0392b;
+  background-color: #f39ead;
 }
 
 .disabled {
@@ -224,12 +229,12 @@ a {
 .pumpContainer {
   display: inline-block;
   margin: 4px;
-  width: 17%;
+  width: 15%;
   height: 50px;
 }
 
 .mixers {
-  background-color: #FFDDDD;
+  background-color: #FFFFFF;
   width: 100%;
   height: 42px;
   margin: 5px;
