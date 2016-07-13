@@ -9,7 +9,7 @@ a {
 }
 
 h1, h2 {
-  color: #f39ead;
+  color: #f39ead !important;
   text-shadow: 4px 4px rgba(82, 57, 62, 0.54);
 }
 
