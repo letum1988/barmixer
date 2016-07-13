@@ -184,7 +184,7 @@ function makeDrink(ingredients, pumps, drinkSize) {
   }
 
   // Normalize
-  var normFactor = 5*drinkSize/amountTotal;
+  var normFactor = 2.5*drinkSize/amountTotal;
 
   var totalPumpMilliseconds = parseInt(normFactor * largestAmount); 
   $scope.pumpTime = totalPumpMilliseconds;
