@@ -30,7 +30,7 @@ function DrinkController($scope, $http) {
   $scope.ingredientsList = [
     'Vodka', 'Rum', 'Whiskey', 'Tequila', 'Gin', 'Sake', 'Soju',
     'Orange Juice', 'Apple Juice', 'Cranberry Juice', 'Pineapple Juice', 'Mango Juice', 'Grapefruit Juice', 'Lime Juice',
-    'Coke', 'Sprite', 'Ginger Ale', 'Root Beer', 'Dr. Pepper',
+    'Coke', 'Sprite', 'Ginger Ale', 'Root Beer', 'Dr. Pepper', 'Tonic',
     'Blue Liqueur', 'Sweet & Sour', 'Triple Sec', 'Kaluha', 'Peach Schnapps', 'Midori Melon',
     'Champagne'
   ];
